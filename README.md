@@ -26,7 +26,9 @@ Individuals with a higher BMI, family size and smoking habits will have higher m
 * The loaded dataset will be cleaned in VS code to ensure it is analysis ready & will produce accurate insights. Python code will be used in the Pandas and NumPy libraries. 
 * The cleaned dataset will be analysed using Python code in Pandas DataFrames and visualised using Python code in Matplotlib, Seaborn and Plotly. 
 
-## The rationale to map the business requiremnets to the Data visualisations
+Establishing and defining clear objectives guarantee's the analysis stays focused and guides the process. ETL process is followed to ensure all raw data is tranformed into a clean, accurate, complete and usable state. Data visualisation is a great way to translate complex results into clear and intuitive insights. Accurate and comprehensive data visualisation is imperitive when communication key findings to non-technical stakeholders. 
+
+## The rationale to map the business requirements to the Data visualisations
 
 ## Analysis techniques used
 
