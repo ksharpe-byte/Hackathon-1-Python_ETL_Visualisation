@@ -1,4 +1,4 @@
-# ![Kabira](/Users/kabirasharpe/Downloads/Purple and Blue Futuristic Data Analyst LinkedIn Banner.png)
+# ![Kabira's Logo](<Purple and Blue Futuristic Data Analyst LinkedIn Banner.png>)
 
 # Hackathon 1 - Python, ETL and Visualisation
 
