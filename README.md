@@ -12,6 +12,12 @@ This dataset holds anonymised healthcare information regarding individual demogr
 
 Individuals with a higher BMI, family size and higher in age will have incur greater medical insurance charges, as a stronger correlation will be displayed for those variables.
 
+The hypothesis will be validated using the following techniques:
+* ETL
+* EDA
+* Checked for bias
+* Data Visualisation
+
 ## Project Plan
 
 ### Objectives
