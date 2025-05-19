@@ -1,4 +1,4 @@
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# ![Kabira](/Users/kabirasharpe/Downloads/Purple and Blue Futuristic Data Analyst LinkedIn Banner.png)
 
 # Hackathon 1 - Python, ETL and Visualisation
 
