@@ -10,7 +10,7 @@ This dataset holds anonymised healthcare information regarding individual demogr
 
 ## Hypothesis and how to validate?
 
-Individuals with a higher BMI, family size and smoking habits will have higher medical insurance charges, as a stronger correlation will be displayed for those variables.
+Individuals with a higher BMI, family size and higher in age will have incur greater medical insurance charges, as a stronger correlation will be displayed for those variables.
 
 ## Project Plan
 
