@@ -68,8 +68,20 @@ Descriptive analysis tools were used to summarise and gain a better understandin
 
 ## Credits
 
+* I used Microsoft CoPilot for some code creation and clarification of terminology.
+* I used 2x "Data Coach Sessions" walkthoughs to compile myself a checklist of all of the steps needed to start a project and begin data analysis.
+* Plotly Topic 3: Plots Part 2 from Code Institutes LMS was used to assit in creating Plotly visualisations.
+* Seaborn Topic 3: Seaborn Plots Part 1 from Code Institutes LMS was used to assist in creating a Seaborn visualisation. 
+* [Plotly Open Source Graphing Library for Python](https://plotly.com/python/), was used when deciding the appropriate graphs for visualisation.
+* Kaggle was used to download the Healthcare Insurance dataset for analysis.
+* [GitHub template](https://github.com/Code-Institute-Solutions/da-README-template) by Code Institute was used to outline the structre of my project.
+* [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) was used to assist in correctly writing in Markdown language. 
+
 ## Content
 
 ## Media
 
 ## Acknowledgements
+
+* Thank you to the Code Institute team who have provided excellent learning, tutorials and support preparing me for my first project - specifically Emma Lamont, John Rearden, Mark Briscoe, Niel McEwen.
+* Thank you to my bootcamp cohort for the support and clarity given throughout the project.
