@@ -77,9 +77,9 @@ Descriptive analysis tools were used to summarise and gain a better understandin
 * [GitHub template](https://github.com/Code-Institute-Solutions/da-README-template) by Code Institute was used to outline the structre of my project.
 * [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) was used to assist in correctly writing in Markdown language. 
 
-## Content
-
 ## Media
+
+* The image for the home page was created and downloaded from [Canva](https://www.canva.com/en_gb/)
 
 ## Acknowledgements
 
