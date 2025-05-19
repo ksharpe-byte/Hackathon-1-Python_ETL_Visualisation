@@ -30,15 +30,41 @@ Establishing and defining clear objectives guarantee's the analysis stays focuse
 
 ## The rationale to map the business requirements to the Data visualisations
 
+The business needs to understand what factors are having the greatest impact on insurance charges.  
+
+* Identify high-cost customers/patients - A box plot was created to identify any outliers, to identify if a larger number of individuals have high medical charges.
+* Understand the distribution of charges - A histogram was used to visualise the distribution of medical insurance charges, providing a clear assessment of the prevalence and impact of higher costs.
+* Understand BMI's effect of charges - Scatter plots were used to analyse the relationships between age, BMI, and number of children, assessing their impact on medical insurance charges.
+
 ## Analysis techniques used
+
+Descriptive analysis tools were used to summarise and gain a better understanding of the dataset. 
+* Exploratory Data Analysis - This was used to understand the data structure and the distributions. However, EDA may not identify all relations which is why I used feature engineering to dig deeper.
+* Standard Deviation for Outlier Detection - This was used identify any outliers and asses if there were any extreme medical charges within the dataset.
+* Correlations - This was used to assess the relationships between different factors, to identify which ones have the greatest impact on charges.
 
 ## Ethical considerations
 
+* Data Privacy - Ensure all data is handled correctly and stored securely as the dataset contains sensitive personal information. I remained compliant with GDPR(EU) throughout. Moreover, all data is anonymised, as the data and findings are accessible on a public platform.
+* Unbiased Feature Selection - Features selected for engineering were unbiased and didn't exclude any individuals withn the dataset.
+* Pricing model suggestion have been communicated to improve accessibility and equity for all groups.
+
 ## Unfixed Bugs
+
+* No unfixed bugs are present.
+* Further reading and practice was required to enable me to accurately visualise my findings. A few rounds of troubleshooting was undergone to ensure the clearest visualisations were created. 
 
 ## Development Roadmap
 
+* Initial data cleaning posed challenges as I was unsure on the best sequence of steps for the cleaning process. I overcame this challenge by revisitng past learning materials, and compiling a thorough checklist on the steps that needed to be completed.
+
 ## Main Data Analysis Libraries
+
+* Python - To create code for Pandas, feature engineering & transformation, data visualisation and reporting.
+* Pandas - Data manipulation and analysis, such as loading data, cleaning data and exploring data.
+* Matplotlib - To illustrate the distribution of charges amongst all individuals within the data set. 
+* Seaborn - To illustrate the distributon of charges amongst individuals with children.
+* Plotly - To provide interactive visulations of my findings.
 
 ## Credits
 
